@@ -279,3 +279,4 @@
 2023-01-09 11:20:59 - optimize query
 2023-01-15 17:49:58 - minor fix
 2023-01-20 16:42:34 - improve performance
+2023-01-20 11:25:23 - fix edge case
